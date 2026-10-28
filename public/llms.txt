@@ -1,0 +1,15 @@
+# Amshu Pokharel
+
+> Software engineer in Kathmandu, Nepal. 4+ years building production web apps with React, Next.js, TypeScript and Ruby on Rails for European clients. Full Stack Engineer at Lumetha (formerly Kotuko) since Jul 2026, and part-time lead frontend engineer on a confidential Next.js subscription platform. Open to remote and EU-timezone frontend or full-stack roles.
+
+- Portfolio: https://udira-re.github.io/
+- CV (PDF): https://udira-re.github.io/Amshu_Pokharel_CV.pdf
+- GitHub: https://github.com/udira-re
+- LinkedIn: https://www.linkedin.com/in/amshu-pokharel-031016375/
+- Open-source gem: https://rubygems.org/gems/codicefiscale_ruby
+- Email: pokharelamshu@gmail.com
+
+## Highlights
+- Part-time lead frontend engineer on a confidential Next.js subscription platform for families.
+- Rails backend work on InBellezza: payments, gift cards, fiscal receipts, OpenAPI docs.
+- React client work for Fegime, Humanitas University, ISMEA, Genesys (Three.js), Aida; Vue.js for Complife.
